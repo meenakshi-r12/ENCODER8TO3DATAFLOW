@@ -38,6 +38,8 @@ Figure 02  Encoder 8 * 3
 
 
 **PROGRAM**
+
+
 ![exp 5 1](https://github.com/user-attachments/assets/b79b82ee-d2e2-4cf1-aea2-9f7476ca3218)
 
 
@@ -53,6 +55,7 @@ Developed by:Meenakshi.R RegisterNumber:24003710
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![exp 5 3](https://github.com/user-attachments/assets/4f8f2dac-28c0-46d3-babc-2b4d5aa2fe12)
 
 **RESULTS**
