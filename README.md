@@ -60,6 +60,8 @@ Developed by:Meenakshi.R RegisterNumber:24003710
 
 **RESULTS**
 
+To implement Encoder 8 To 3 in Dataflow Modelling using verilog and Validating their functinality using their functional tables.
+
 
 
 
