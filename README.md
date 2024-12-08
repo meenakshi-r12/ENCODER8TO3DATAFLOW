@@ -47,6 +47,8 @@ Developed by:Meenakshi.R RegisterNumber:24003710
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
+
 ![exp 5 2](https://github.com/user-attachments/assets/638c7f95-66c1-42ff-9e8b-3374780a715e)
 
 
